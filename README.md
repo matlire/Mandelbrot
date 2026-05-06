@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Mandelbrot
-=======
 # Mandelbrot
 
 This project renders the Mandelbrot set with several CPU and GPU implementations, then benchmarks the CPU variants under controlled conditions.
@@ -67,4 +64,3 @@ Bench shell:
 
 - `BENCH_SKIP_CPUPOWER=1` disables temporary cpupower changes
 - `BENCH_GOVERNOR`, `BENCH_FREQUENCY`, `BENCH_MIN_FREQ`, `BENCH_MAX_FREQ` tune the temporary CPU policy
->>>>>>> fad9ae8 (Init commit)
